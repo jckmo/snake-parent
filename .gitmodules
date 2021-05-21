@@ -1,0 +1,7 @@
+[submodule "snake"]
+	path = snake
+	url = git@github.com:jvckmo/snake.git
+
+[submodule "snakeVanilla"]
+	path = snakeVanilla
+	url = git@github.com:jvckmo/snakeVanilla.git
